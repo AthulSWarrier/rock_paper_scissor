@@ -1,2 +1,4 @@
-# rock_paper_scissor
-A simple Rock-Paper-Scissor Game
+# ROCK , PAPER & SCISSORS
+#### A simple Rock-Paper-Scissor Game.
+#### Before running, please make sure to install termcolor and colorama modules.    
+
