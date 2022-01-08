@@ -160,7 +160,7 @@ while True:
         break
     else:
         colorama.init()
-        print(colored('I\'m FED UP!!!!!  GOODBYE!     \U0001F92C','red'))
+        print(colored('INVALID ENTRY!\nFATAL ERROR \U00002620','red'))
         colorama.deinit()
         time.sleep(1)
         break
